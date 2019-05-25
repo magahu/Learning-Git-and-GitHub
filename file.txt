@@ -1,0 +1,1 @@
+Git allows us tracking the changes of any plain text. To do this, follow the next steps:
