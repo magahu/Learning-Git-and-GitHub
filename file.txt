@@ -1,3 +1,4 @@
 Git allows us tracking the changes of any plain text. To do this, follow the next steps:
 1.- Inside the selected directory, we activate the system version control of Git by executing git init
 2.- We change the untracked file status to staged by executing git add file.extension
+3.- We move file changes or updates from untracked to staged by executing git commit -m "comment"
