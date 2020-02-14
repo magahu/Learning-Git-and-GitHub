@@ -60,7 +60,7 @@ We can save all our progress and share it using GitHub. To do this we follow the
 4.- Go to 'Clone or download repositoty' and copy the url
 
 5.- Being in the master branch, create an origin by executing:
- git remote add "paste url here, it is gonna be the origin" 
+ git remote add origin "paste url here, it is gonna be the origin" 
 
 We can see more info about the origin by executing:
  git remote or git remote --v
