@@ -72,6 +72,6 @@ We can see more info about the origin by executing:
  git push origin master
     
 
-There are a lot of more useful Git and GitHub functionalities,
-but for now, you can start tracking your files using Git and GitHub and  share your work!
+There are a lot of more useful Git and GitHub functionalities,but for now,
+you can start tracking your files using Git and GitHub and  share your work!
  
