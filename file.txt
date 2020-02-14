@@ -13,6 +13,9 @@ Or to ad all the files to the repository:
 3.- We move file changes or updates from untracked to staged by executing: 
  git commit -m "comment something about the changes here"
 
+If we forgot to add comment to the commit, vim appears and requires the comment. 
+We type the comment in double quotes at the top of the screen and close vim presing " CTRL + SHIFT + zz" 
+
 After doing add and commit (step 2 and 3) at least one time, we can use:
  git commit -am "comment something about the changes here"
 
@@ -23,7 +26,7 @@ At the begining we are in the 'master' branch,
 1.- To create a branch we use:
  git branch branch_name
 
-WE can see the available branches by executing:
+We can see the available branches by executing:
  git branch
 
 2.- We change branch by executing:
