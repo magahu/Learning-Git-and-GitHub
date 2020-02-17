@@ -1,6 +1,12 @@
 GIT
 
 Git allows us tracking the changes of any plain text!
+UBUNTU INSTALLATION
+Run in the terminal:
+sudo apt-get install git
+don't forget:
+sudo apt-get update
+sudo apt-get upgrade
 
 ACCOUNT SETTINGS
 
