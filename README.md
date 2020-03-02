@@ -1,3 +1,4 @@
+# using-git-and-github
 **README.md** is a file written in markdown language and is a good practice for explain our repositories purpose in a clear and easier  way.  You can see it exemplify by this file written down bellow in the fancy format of markdown.
 
 # GIT
@@ -8,8 +9,11 @@ Git allows us tracking the changes of any plain text!
 
 - Go to   https://github.com and sign in
 - To configure the account in our computer, we use:
+
  ***git config --global user.name "Your name here"***
+ 
   ***git config --global user.email "Your e-mail here"***
+  
 - For show the actual account, we use:
   ***git config --list***
   
