@@ -11,10 +11,10 @@ sudo apt-get upgrade
 ACCOUNT SETTINGS
 
 - Go to https://github.com and sign in
-- To configure the account in our computer, we use:
+- To configure the account in our computer, use:
   git config --global user.name "Your name here"
   git config --global user.email "Your e-mail here"
-- For show the actual account, we use:
+- For show the actual account, use:
   git config --list
 
 To start tracking and controlling versions, follow the next steps: 
@@ -57,7 +57,7 @@ GITHUB
 
 We can save all our progress and share it using GitHub. To do this we follow the next steps:
 
-1.- Go to our brownser and then to the oficil GitHub page and we sign up
+1.- Go to our brownser and then to the oficial GitHub page and sign up
 
 2.- Go to the 'add' icon at the upper-left of the screen and select 'New repository' or another option
 
